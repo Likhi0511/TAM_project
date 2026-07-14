@@ -1,0 +1,10 @@
+[
+  {"event": "payment_confirmed"},
+  {"event": "shipment_created"},
+  {"event": "shipment_delayed"},
+  {"event": "customer_message_received"},
+  {"event": "no_update_for_n_hours"},
+  {"event": "shipment_delayed"},
+  {"event": "refund_requested"},
+  {"event": "refund_resolved"}
+]
