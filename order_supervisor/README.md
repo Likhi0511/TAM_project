@@ -92,7 +92,7 @@ Status:
 COMPLETED
 
 Learnings:
-- Shipment delays were detected and handled proactively.
+- A shipment delay occurred and customer was informed.
 - Escalation was required.
 - Workflow reached a terminal state.
 ```
